@@ -1,0 +1,64 @@
+.loadingContainer {
+  cursor: default;
+}
+
+.imageShimmer {
+  box-shadow: none;
+  border-radius: 0.375rem;
+  width: 595px;
+  height: 160px;
+}
+
+.onlineTextShimmer {
+  box-shadow: none;
+  width: 100px;
+  height: 20px;
+  margin-bottom: 10px;
+}
+
+.onlineShimmer {
+  box-shadow: none;
+  width: 281px;
+  height: 24px;
+}
+
+.maxTextShimmer {
+  box-shadow: none;
+  width: 100px;
+  height: 20px;
+  margin-bottom: 10px;
+}
+
+.maxShimmer {
+  box-shadow: none;
+  width: 281px;
+  height: 24px;
+}
+
+.listTextShimmer {
+  box-shadow: none;
+  width: 200px;
+  height: 25px;
+}
+
+.listShimmer {
+  box-shadow: none;
+  border-radius: 0.375rem;
+  width: 593px;
+  height: 100px;
+  margin-top: 15px;
+}
+
+.latencyShimmer {
+  box-shadow: none;
+  border-radius: 10rem;
+  width: 59px;
+  height: 18px;
+}
+
+.regionShimmer {
+  box-shadow: none;
+  border-radius: 10rem;
+  width: 59px;
+  height: 18px;
+}
